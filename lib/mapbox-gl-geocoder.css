@@ -59,13 +59,6 @@
   box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
 }
 
-/* Collapsed */
-.mapboxgl-ctrl-geocoder.mapboxgl-ctrl-geocoder--collapsed {
-  width: 50px;
-  min-width: 50px;
-  transition: width .25s, min-width .25s;
-}
-
 /* Suggestions */
 .mapboxgl-ctrl-geocoder .suggestions {
   background-color: #fff;
